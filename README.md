@@ -115,6 +115,13 @@ Please see our guidelines in the [developer documentation](./CONTRIBUTING.md)
 
 ## ❤️ Contributors
 Thank you for helping make Leo better!  
+
+
+This deploy contributed by Konstantine Meshkov, 
+
+discord name:  KonstantineKvint#5458
+
+
 [What do the emojis mean?🧐](https://allcontributors.org/docs/en/emoji-key)
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
