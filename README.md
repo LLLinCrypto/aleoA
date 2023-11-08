@@ -117,7 +117,7 @@ Please see our guidelines in the [developer documentation](./CONTRIBUTING.md)
 Thank you for helping make Leo better!  
 
 
-This deploy contributed by Konstantine Meshkov, 
+This deploy contributed by Konstantine Kvint, 
 
 discord name:  KonstantineKvint#5458
 
